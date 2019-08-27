@@ -1,6 +1,8 @@
 #!/usr/bin/env python2
 # coding: utf8
 
+__all__ = ['Explainer']
+
 import sys
 import textwrap
 import collections
